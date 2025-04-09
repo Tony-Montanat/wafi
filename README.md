@@ -31,14 +31,33 @@
 
 ---
 
+## 🔐 License Activation
+
+WaFi includes a 7-day free trial. After that, you can activate full access using a license key.
+
+### How it works:
+1. Click **Buy License** in the Telegram bot @wafi_license_key_bot
+2. Pay securely through the provided link.
+3. You’ll receive your license key instantly in the chat.
+4. Enter the key in WaFi to activate — the license lasts for 30 days.
+
+If the license is valid, it will be remembered — no need to re-enter it every session.
+
+### Payment Flow Preview
+
+| Telegram Bot Prompt | Payment Page | License Entry in WaFi |
+|---------------------|--------------|------------------------|
+| ![](Screenshot_22.jpg) | ![](Screenshot_23.jpg) | ![](Screenshot_24.jpg) |
+
+---
+
 ## Auto-Update (Coming Soon)
 WaFi can automatically check for new versions and download the latest installer.
 
 ---
 
 ## Screenshots
-
-
+Coming soon...
 
 ---
 
@@ -59,4 +78,3 @@ Download the latest installer from [Releases](https://github.com/Tony-Montanat/w
 ## License
 
 WaFi is a closed-source utility for personal and development use.
-
