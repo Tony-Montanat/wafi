@@ -43,11 +43,7 @@ WaFi includes a 7-day free trial. After that, you can activate full access using
 
 If the license is valid, it will be remembered — no need to re-enter it every session.
 
-### Payment Flow Preview
 
-| Telegram Bot Prompt | Payment Page | License Entry in WaFi |
-|---------------------|--------------|------------------------|
-| ![](Screenshot_22.jpg) | ![](Screenshot_23.jpg) | ![](Screenshot_24.jpg) |
 
 ---
 
@@ -57,7 +53,10 @@ WaFi can automatically check for new versions and download the latest installer.
 ---
 
 ## Screenshots
-Coming soon...
+
+| Generate | List | Check |
+|---------------------|--------------|------------------------|
+| ![](Screenshot_22.jpg) | ![](Screenshot_23.jpg) | ![](Screenshot_24.jpg) |
 
 ---
 
